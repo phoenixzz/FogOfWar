@@ -11,9 +11,9 @@ To reveal units in the Fog of War, an allied unit must gain vision in that area.
 
 Example
 -------
-![FOW Pic1](https://github.com/phoenixzz/FogOfWar/fow1.png)
+![FOW Pic1](https://github.com/phoenixzz/FogOfWar/blob/master/fow1.png)
 
-![FOW Pic2](https://github.com/phoenixzz/FogOfWar/fow2.png)
+![FOW Pic2](https://github.com/phoenixzz/FogOfWar/blob/master/fow2.png)
 
 How To Use
 -------
